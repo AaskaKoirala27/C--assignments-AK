@@ -1,3 +1,7 @@
+# =========================
+# C / C++ build artifacts
+# =========================
+
 # Prerequisites
 *.d
 
@@ -37,5 +41,30 @@
 *.out
 *.app
 
-# debug information files
+# Debug information files
 *.dwo
+
+# =========================
+# .NET / C# build artifacts
+# =========================
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / IDE folders
+.vs/
+*.vscode/
+
+# =========================
+# Optional temporary files
+# =========================
+*.log
+*.tmp
+*.cache
