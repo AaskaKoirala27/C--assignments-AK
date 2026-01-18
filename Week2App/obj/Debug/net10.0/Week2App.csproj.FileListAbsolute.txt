@@ -1,0 +1,15 @@
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/bin/Debug/net10.0/Week2App
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/bin/Debug/net10.0/Week2App.deps.json
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/bin/Debug/net10.0/Week2App.runtimeconfig.json
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/bin/Debug/net10.0/Week2App.dll
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/bin/Debug/net10.0/Week2App.pdb
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.AssemblyInfoInputs.cache
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.AssemblyInfo.cs
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.csproj.CoreCompileInputs.cache
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.sourcelink.json
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.dll
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/refint/Week2App.dll
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.pdb
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/Week2App.genruntimeconfig.cache
+/Users/aaskakoirala/Documents/C--assignments-AK/Week2App/obj/Debug/net10.0/ref/Week2App.dll
