@@ -17,7 +17,7 @@ class Program
 
             // ------------------ Main Menu Header ------------------
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("=======================================");
+            Console.WriteLine("========================================");
             Console.WriteLine("       Welcome to Week2App Menu        ");
             Console.WriteLine("=======================================");
             Console.ResetColor();

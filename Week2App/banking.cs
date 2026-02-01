@@ -12,7 +12,7 @@ class Banking
         int mainChoice;
         do
         {
-            Console.WriteLine("\n--- Simple Bank System ---");
+            Console.WriteLine("\n------- Simple Bank System --------");
             Console.WriteLine("1. Create Account");
             Console.WriteLine("2. Login");
             Console.WriteLine("3. Exit");
