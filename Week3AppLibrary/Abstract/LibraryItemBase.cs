@@ -5,24 +5,24 @@ using Week3AppLibrary.Exceptions;
 namespace Week3AppLibrary.Model
 {
     /*
-     * Abstract base class Item
+     * Abstract base class LibraryItemBase
      * Implements ILibraryItem interface
      * 
      * - Cannot be instantiated directly
      * - Provides validation for common properties
      * - Child classes must override DisplayInfo()
      */
-    public abstract class Item : ILibraryItem
+    public abstract class LibraryItemBase : ILibraryItem
     {
         protected string _title;
         protected string _publisher;
         protected int _publicationYear;
 
         // Default constructor
-        protected Item() { }
+        protected LibraryItemBase() { }
 
         // Parameterized constructor
-        protected Item(string title, string publisher, int publicationYear)
+        protected LibraryItemBase(string title, string publisher, int publicationYear)
         {
             Title = title;
             Publisher = publisher;
